@@ -1,4 +1,4 @@
-AdvancedCalculatorc-C_sharp
+AdvancedCalculatorc-C# 
 A robust, interactive command-line scientific calculator built using C# and the .NET framework. This application goes beyond standard arithmetic to offer advanced mathematical functions, including exponents, roots, and trigonometry, featuring clean input validation and error handling.
 
 === Advanced C# Calculator ===
